@@ -1,2 +1,2 @@
 # Home-Credit-Default-Risk
-![](HomeCreditDefaultRisk/Slide1)
+![Introduction](HomeCreditDefaultRisk/Slide1)
